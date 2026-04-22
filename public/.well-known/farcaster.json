@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Base Social Mini",
+    "homeUrl": "https://ais-dev-nmv5g7rjq65am7rifjpnpy-615601803900.asia-southeast1.run.app",
+    "iconUrl": "https://picsum.photos/seed/baseicon/200/200",
+    "splashImageUrl": "https://picsum.photos/seed/basesplash/800/600",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://ais-dev-nmv5g7rjq65am7rifjpnpy-615601803900.asia-southeast1.run.app/api/webhook",
+    "subtitle": "Onchain Social Mini",
+    "description": "Connect, share, and build on Base.",
+    "screenshotUrls": [
+      "https://picsum.photos/seed/s1/400/800",
+      "https://picsum.photos/seed/s2/400/800"
+    ],
+    "primaryCategory": "social",
+    "tags": ["social", "base", "onchain"],
+    "heroImageUrl": "https://picsum.photos/seed/basehero/1200/630",
+    "tagline": "Connect Onchain",
+    "ogTitle": "Base Social Mini",
+    "ogDescription": "Connect, share, and build on Base.",
+    "ogImageUrl": "https://picsum.photos/seed/baseog/1200/630",
+    "noindex": true
+  }
+}

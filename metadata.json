@@ -1,0 +1,6 @@
+{
+  "name": "Base Social Mini",
+  "description": "A social mini-app built for the Base ecosystem, powered by Farcaster and OnchainKit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
